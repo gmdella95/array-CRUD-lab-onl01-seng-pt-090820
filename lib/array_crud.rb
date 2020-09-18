@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   names = ["Gustavo", "Cameron", "Ashley", "Mike"]
-  names.unshift("element")
+  names.unshift(element)
 end
 
 def add_element_to_start_of_array(array, element)
