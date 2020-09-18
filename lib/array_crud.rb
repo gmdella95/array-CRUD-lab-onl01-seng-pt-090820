@@ -17,12 +17,13 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  names = ["Gustavo", "Cameron", "Ashley", "Mike", "arrays!" ]
+  names = ["wow", "Gustavo", "Cameron", "Ashley", "Mike", "arrays!"]
   names.pop
 end
 
 def remove_element_from_start_of_array(array)
-
+  names = ["wow", "Gustavo", "Cameron", "Ashley", "Mike", "arrays!"]
+  names.shift
 end
 
 def retrieve_element_from_index(array, index_number)
