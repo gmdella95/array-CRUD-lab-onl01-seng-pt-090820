@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array=["Gustavo", "Cameron", "Ashley", "Mike"]
-
+  element = "Rebecca"
 end
 
 def add_element_to_start_of_array(array, element)
