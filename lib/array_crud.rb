@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  ["Gustavo", "Cameron", "Ashley", "Mike"]
-  element.unshift ("Rebecca")
+  array=["Gustavo", "Cameron", "Ashley", "Mike"]
+
 end
 
 def add_element_to_start_of_array(array, element)
